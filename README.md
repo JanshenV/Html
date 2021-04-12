@@ -1,7 +1,7 @@
-# Html
+
 Códigos html
 
-These codes are just part of trying to recreate the tibia's story page.
+These tibia_pages codes are just part of me trying to recreate the tibia's story page.
 All I do here is put in practice my learning in html.
 
 you can see it on the link: 
